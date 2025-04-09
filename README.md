@@ -8,6 +8,7 @@ This project is part of my coursework for the **Advanced Artificial Intelligence
   Jupyter Notebook containing:
   - Data preprocessing
   - Training a Support Vector Machine model on the Wine dataset
+    
   - Model evaluation using metrics such as:
     - Confusion Matrix
     - Accuracy Score
@@ -46,3 +47,18 @@ The project uses the **Wine dataset** from the `sklearn.datasets` module. It con
    ```
    
 Make sure you have installed all necessary libraries (you can use requirements.txt if available).
+
+## 📌 Learning Objectives
+- Implement SVM for multi-class classification
+- Understand the behavior of SVM on real-world datasets
+- Evaluate model performance using standard metrics
+- Visualize confusion matrix and classification outcomes
+
+## 📚 Reference
+- [Scikit-learn documentation](https://scikit-learn.org/stable/)
+- [Wine Dataset](https://scikit-learn.org/stable/modules/generated/skl
+
+## 👨‍💻 Author
+**Nadhif Rifat Rasendriya**  
+_Student of Universitas Brawijaya_
+
