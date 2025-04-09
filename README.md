@@ -56,7 +56,7 @@ Make sure you have installed all necessary libraries (you can use requirements.t
 
 ## 📚 Reference
 - [Scikit-learn documentation](https://scikit-learn.org/stable/)
-- [Wine Dataset](https://scikit-learn.org/stable/modules/generated/skl
+- [Wine Dataset](https://scikit-learn.org/stable/modules/generated/skl)
 
 ## 👨‍💻 Author
 **Nadhif Rifat Rasendriya**  
